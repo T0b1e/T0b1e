@@ -1,17 +1,18 @@
 - 👋 Hi, I’m @T0b1e
+## Profile
 My name is Narongkorn kitrungrot my nick name is tob 
-I am beginer of coding now I'm leaning java-script.
+I am beginer of coding now since last year.
 Have a nice day!
 
-Languages that I learn
-HTML / CSS
-Javascript / Typescript
-Python
+## Languages that I learn 
+HTML / CSS<br>
+Javascript / Typescript<br>
+Python<br>
 
-Contact
-Instragram : tob1e_official
-Gmail : psuwit.narongkorn.nk@gmail.com
-Discord : Tobie#2144
+## Contact
+Instragram : tob1e_official<br>
+Gmail : psuwit.narongkorn.nk@gmail.com<br>
+Discord : Tobie#2144<br>
 <!---
 T0b1e/T0b1e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
