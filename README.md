@@ -1,15 +1,13 @@
-- 👋 Hi, I’m @T0b1e
-## Profile
+# Profile
+👋 Hi, I’m @T0b1e
 My name is Narongkorn kitrungrot my nick name is tob 
 I am beginer of coding now since last year.
 Have a nice day!
-
-## Languages that I learn 
+# Languages that I learn 
 HTML / CSS<br>
 Javascript / Typescript<br>
 Python<br>
-
-## Contact
+# Contact
 Instragram : tob1e_official<br>
 Gmail : psuwit.narongkorn.nk@gmail.com<br>
 Discord : Tobie#2144<br>
