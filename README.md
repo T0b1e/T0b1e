@@ -6,7 +6,7 @@ Have a nice day!
 # Languages that I learn 
 HTML / CSS<br>
 Javascript / Typescript<br>
-Python<br>
+Python (Newbie)<br>
 # Contact
 Instragram : tob1e_official<br>
 Gmail : psuwit.narongkorn.nk@gmail.com<br>
