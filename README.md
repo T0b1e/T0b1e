@@ -1,7 +1,7 @@
 # Profile
 👋 Hi, I’m @T0b1e
 My name is Narongkorn kitrungrot my nick name is tob 
-I am beginer of coding now since last year.
+I am beginer of coding now since this morning.
 Have a nice day!
 # Languages that I learn 
 HTML / CSS<br>
