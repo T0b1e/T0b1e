@@ -6,7 +6,10 @@ Have a nice day!
 # Languages that I learn 
 HTML / CSS<br>
 Javascript / Typescript<br>
-Python (Newbie)<br>
+Python (30 % of All)
+- Basic algorithm
+- Basic math problem
+- Fundamental<br>
 # Contact
 Instragram : tob1e_official<br>
 Gmail : psuwit.narongkorn.nk@gmail.com<br>
