@@ -8,6 +8,7 @@ HTML / CSS<br>
 Javascript / Typescript<br>
 Python (30 % of All)
 - Basic algorithm
+- Basic data algorithm ex. basic sorting alogorithm
 - Basic math problem
 - Fundamental<br>
 # Contact
