@@ -5,12 +5,12 @@ I am beginer of coding now since this morning.
 Have a nice day!
 # Languages that I learn 
 HTML / CSS<br>
-Javascript / Typescript<br>
-Python (30 % of All)
+Javascript / Typescript (Beginner)<br>
+Python (30 % of All), (Codewar Rank 6 kyu)
 - Basic algorithm
 - Basic data algorithm ex. basic sorting alogorithm
 - Basic math problem
-- Basic OOP
+- Basic OOP (Object Orieanted Programming)
 - Fundamental<br>
 # Contact
 Instragram : tob1e_official<br>
