@@ -10,6 +10,7 @@ Python (30 % of All)
 - Basic algorithm
 - Basic data algorithm ex. basic sorting alogorithm
 - Basic math problem
+- Basic OOP
 - Fundamental<br>
 # Contact
 Instragram : tob1e_official<br>
