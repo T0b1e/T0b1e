@@ -6,15 +6,15 @@ Have a nice day!
 # Languages that I learn 
 HTML / CSS<br>
 Javascript / Typescript (Beginner)<br>
-Python (30 % of All), (Codewar Rank 6 kyu)
+Python (60 % of All), (Codewar Rank 6 kyu)
 - Basic algorithm
 - Basic data algorithm ex. basic sorting alogorithm
 - Basic math problem
 - Basic OOP (Object Orieanted Programming)
 - Fundamental<br>
 # Contact
-Instragram : tob1e_official<br>
-Gmail : psuwit.narongkorn.nk@gmail.com<br>
+Instragram : _tob1e_<br>
+Gmail : narongkorn.k65@rsu.ac.th<br>
 Discord : Tobie#2144<br>
 <!---
 T0b1e/T0b1e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
