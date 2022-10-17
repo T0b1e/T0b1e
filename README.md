@@ -4,11 +4,10 @@ My name is Narongkorn kitrungrot my nick name is tob, my native language was Pyt
 I am computer engineering student first year, Now i learn about website structure or more, 
 Let study and growing up with me Have a nice day !
 # Languages that I learn 
-HTML / CSS
+HTML / CSS <br>
 Javascript
 - Framwork
 - Node.js, Vue.js, Express.js 
-<br>
 Python, (Almost all of my project on github have been finished by python)
 <br>
 C, C++ 
