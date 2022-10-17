@@ -17,9 +17,8 @@ Framwork, Node.js, Vue.js, Express.js
 ## DataBase
 - SQL
 - Firbase, MongoDB
-<br>
-
-# Contact me (Personal)
+---
+## Contact me (Personal)
 <br>
 Instragram : _tob1e_<br>
 Gmail : narongkorn.k65@rsu.ac.th<br>
