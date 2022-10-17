@@ -12,7 +12,8 @@ Framwork, Node.js, Vue.js, Express.js
 <br>
 Design 
 - Figma
-# Contact
+<br>
+# Contact me (Personal)
 Instragram : _tob1e_<br>
 Gmail : narongkorn.k65@rsu.ac.th<br>
 Discord : Tobie#2144<br>
