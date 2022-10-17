@@ -9,10 +9,10 @@ Let study and growing up with me Have a nice day !
 Framwork, Node.js, Vue.js, Express.js 
 - Python, (Almost all of my project on github have been finished by python)
 - C, C++ 
-<br>
 Design 
 - Figma
 <br>
+
 # Contact me (Personal)
 <br>
 Instragram : _tob1e_<br>
