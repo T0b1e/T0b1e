@@ -1,17 +1,19 @@
 # Profile
 👋 Hi, I’m @T0b1e
-My name is Narongkorn kitrungrot my nick name is tob 
-I am beginer of coding now since this morning.
-Have a nice day!
+My name is Narongkorn kitrungrot my nick name is tob, my native language was Python and C
+I am computer engineering student first year, Now i learn about website structure or more, 
+Let study and growing up with me Have a nice day !
 # Languages that I learn 
 HTML / CSS<br>
-Javascript / Typescript (Beginner)<br>
-Python (60 % of All), (Codewar Rank 6 kyu)
-- Basic algorithm
-- Basic data algorithm ex. basic sorting alogorithm
-- Basic math problem
-- Basic OOP (Object Orieanted Programming)
-- Fundamental<br>
+Javascript
+- Framwork
+- Node.js, Vue.js, Express.js <br>
+Python, (Almost all of my project on github have been finished by python)
+<br>
+C, C++ <br>
+---
+Design 
+- Figma
 # Contact
 Instragram : _tob1e_<br>
 Gmail : narongkorn.k65@rsu.ac.th<br>
