@@ -17,6 +17,11 @@ Framwork, Node.js, Vue.js, Express.js
 ## DataBase
 - SQL
 - Firbase, MongoDB
+- Excel
+- ---
+## DataBase
+- Microsoft Word, PowerPoint, Excel
+- Adobe Premiere Pro, Photoshop, Lightroom
 ---
 ## Contact me (Personal)
 <br>
