@@ -26,7 +26,7 @@ Framwork, Node.js, Vue.js, Express.js
 ## Contact me (Personal)
 <br>
 Instragram : _tob1e_<br>
-Gmail : narongkorn.k65@rsu.ac.th<br>
+Gmail : narongkorn.tob@gmail.com<br>
 Discord : Tobie#2144<br>
 <!---
 T0b1e/T0b1e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
