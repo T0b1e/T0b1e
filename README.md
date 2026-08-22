@@ -47,7 +47,7 @@ I also build websites for fun:
 **fak-tuan** — A short-notice reminder tool. How do you keep track of something happening in a few hours, or even 15 minutes? Most people rely on their phone's reminder app or a notes app — and then forget anyway. So I built this as a LINE chatbot instead.
 🔗 [fak-tuan.narongkorn.com](https://fak-tuan.narongkorn.com/)
 
-**red-line-api** — Built for my personal ledger project. The real problem with most ledger/payment apps today is human error — we're too lazy to log cash transactions, since online payments already track themselves.
+**red-line-api** — Built for my personal ledger project. The real problem with most ledger/payment apps today is human error — we're too lazy to log cash transactions, since online payments already track themselves, Damn are you really read this, What a nerd.
 
 **withub** — Just GitHub, but for Word docs. If you know, you know.
 
@@ -63,7 +63,7 @@ I also build websites for fun:
 
 ## Stack
 
-**Love:** Gemini, Claude Sonnet, Vue, Next.js, Cloudflare Workers/Pages, Python, FastAPI, TypeScript, Angular, Elysia, Dart, SQL, Apps Script, HTML, Tailwind, routing protocols (RIP, OSPF, EIGRP, static...), ESP32, Raspberry Pi 5, 3D printers, and tinkering with chips — also a big fan of the book *Chip War*.
+**Love:** Angular, Apps Script, Chip War (book), Claude Sonnet, Cloudflare Workers/Pages, D1, Dart, Elysia, ESP32, FastAPI, Gemini, Gundam, HTML, IndexDB, Lego, MongoDB, Next.js, Postgres, Python, R2, Raspberry Pi 5, routing protocols (RIP, OSPF, EIGRP, static...), Soldering, SQL, SQL, Sqlite, Supabase, Tailwind, TypeScript, Vue, 3D printers, tinkering with chips
 
 **Currently learning:** Redis, Swift, C, Astro.
 
