@@ -63,7 +63,7 @@ I also build websites for fun:
 
 ## Stack
 
-**Love:** Angular, Apps Script, Chip War (book), Claude Sonnet, Cloudflare Workers/Pages, D1, Dart, Elysia, ESP32, FastAPI, Gemini, Gundam, HTML, IndexDB, Lego, MongoDB, Next.js, Postgres, Python, R2, Raspberry Pi 5, routing protocols (RIP, OSPF, EIGRP, static...), Soldering, SQL, SQL, Sqlite, Supabase, Tailwind, TypeScript, Vue, 3D printers, tinkering with chips
+**Love:** Angular, Apps Script, Chip War (book), Claude Sonnet, Cloudflare Workers/Pages, D1, Dart, Docker, Elysia, ESP32, FastAPI, F/O, Gemini, Gundam, HTML, IndexDB, Jasper, LAN, Lego, MongoDB, Next.js, Postgres, Postman, Python, R2, Raspberry Pi 5, routing protocols (RIP, OSPF, EIGRP, static...), Soldering, SQL, SQL, Sqlite, Supabase, Tailwind, TypeScript, VMware, Vue, WAN, Wireshark, 3D printers, tinkering with chips
 
 **Currently learning:** Redis, Swift, C, Astro.
 
