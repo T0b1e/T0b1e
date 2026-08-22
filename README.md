@@ -18,11 +18,10 @@ Just a random nerd who loves hanging out in the garage, automating workflows, an
 
 Projects I've shipped — feel free to be my beta tester and roast them.
 
-**container-tracking** — Built from a client requirement: a SaaS catalog system for a firm that needed to track container status (gen-set or not).
-
 **pwi** — Where I currently work full-time. Things I've done here:
 - Built a custom ML model for counting items on a conveyor belt (currently porting this to a Jetson Orin board)
 - Built a Warehouse Management System that doubles as ERP/back-office, using Next.js and Elysia
+- Built from a container-tracking client requirement: a SaaS catalog system for a firm that needed to track container status (gen-set or not).
 - Turned that WMS into a PWA
 - Built a master dashboard showing live stats for the office
 - Pushed the company toward going paperless and moving more onto the cloud
