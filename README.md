@@ -54,7 +54,7 @@ I also build websites for fun:
 
 **kmap 3D** — A vibe project to learn how three.js works.
 
-**chit-chat** — A P2P platform to chat, send text, or share files with classmates — no need to log into Facebook, Messenger, etc.
+**chit-chat** — A P2P platform to chat, send text, or share files with classmates — no need to log into Facebook, Messenger, etc. used to turn to form.net c# for window usage.
 
 **kinyayang** — An app to remind my dad not to forget to take his pills, and to keep a personal medicine log. Next feature: hooking it up to a LINE chatbot.
 
