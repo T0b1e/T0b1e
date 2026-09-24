@@ -8,7 +8,7 @@
 
 # NARONGKORN KITRUNGROT
 
-Just a random nerd who loves hanging out in the garage, automating workflows, and building random things for fun. I do websites, IoT, ML, and more.
+Just a random nerd who loves to play out in the garage, automating workflows, and building random things for fun. I do websites, IoT, ML, and more.
 
 </div>
 
