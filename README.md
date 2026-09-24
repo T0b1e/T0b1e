@@ -17,6 +17,7 @@ Just a random nerd who loves hanging out in the garage, automating workflows, an
 ## Currently (a random IT guy, full-time)
 
 Projects I've shipped — feel free to be my beta tester and roast them.
+
 **SCGJWD (BPD)**
 - Make the founder dream's come true
 - Intrigrated tech to Global-Supply-Chain (Logistic, Warehouse, Freight, Import/Export, Custom, Etc,.)
