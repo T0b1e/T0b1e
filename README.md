@@ -17,8 +17,11 @@ Just a random nerd who loves hanging out in the garage, automating workflows, an
 ## Currently (a random IT guy, full-time)
 
 Projects I've shipped — feel free to be my beta tester and roast them.
+**SCGJWD (BPD)**
+- Make the founder dream's come true
+- Intrigrated tech to Global-Supply-Chain (Logistic, Warehouse, Freight, Import/Export, Custom, Etc,.)
 
-**pwi** — Where I currently work full-time. Things I've done here:
+**pwi** — I'm used to work full-time here. Things I've done here:
 - Built a custom ML model for counting items on a conveyor belt (currently porting it to a Jetson Orin board)
 - Another ML project for detecting and counting ice blocks
 - Built an ML-based timer that tracks how long items/products sit in the non-loading zone, to help preserve their temperature as much as possible
