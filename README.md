@@ -20,7 +20,7 @@ Just a random nerd who loves to play out in the garage, automating workflows, an
 - Make the founder's dream come true
 - Integrate technology into the global supply chain (logistics, warehousing, freight, import/export, customs, etc.)
 
-**pwi** — I'm used to work full-time here. Things I've done here:
+**PWI GROUPS (PWI-NEXTS)** — I'm used to work full-time here. Things I've done here:
 - Built a custom ML model for counting items on a conveyor belt (currently porting it to a Jetson Orin board)
 - Another ML project for detecting and counting ice blocks
 - Built an ML-based timer that tracks how long items/products sit in the non-loading zone, to help preserve their temperature as much as possible
